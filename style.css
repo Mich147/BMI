@@ -11,7 +11,7 @@ body {
 h1{
     text-align: center;
     color: rgb(8, 86, 93);
-    padding-top: 100px;
+    padding-top: 80px;
 }
 span {
     color: rgb(233, 162, 162);
@@ -39,7 +39,7 @@ button{
     color:  rgb(8, 86, 93);
     padding: 10px;
     border-radius: 5px;
-    border: 2px solid rgb(93, 8, 93);
+    border: 2px solid rgb(18, 121, 130);
     background: whitesmoke;
     display: block;
     margin-top: 10%;
