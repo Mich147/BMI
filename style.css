@@ -1,0 +1,48 @@
+body {
+    margin: o;
+    padding: 0;
+    color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(120, 40, 196);
+    background-image: url("BMI.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: rgb(8, 86, 93);
+    padding-top: 100px;
+}
+span {
+    color: rgb(233, 162, 162);
+}
+.wrapper{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 50px;
+    background: rgb(8, 86, 93);
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.wrapper p {
+    font-size: larger;
+}
+input{
+    outline: none;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: large;
+}
+button{
+    color:  rgb(8, 86, 93);
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid rgb(93, 8, 93);
+    background: whitesmoke;
+    display: block;
+    margin-top: 10%;
+    cursor: pointer;
+    font-size: larger;
+}
